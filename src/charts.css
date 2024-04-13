@@ -1,0 +1,8 @@
+.barChart {
+    overflow: hidden; /* Prevents content from overflowing */
+    width: 100%; /* Adjust this as needed */
+  }
+  
+  #myChart {
+    width: 100%; /* Adjust this as needed */
+  }
